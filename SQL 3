@@ -1,4 +1,4 @@
- create database company2;
+create database company2;
 use company2;
 create table Employees2(
 emp_id int,
