@@ -1,4 +1,3 @@
-                                      ###########  MYSQL ASSIGNMENT_2
 ###1.	Create a database named library and a table named books with the following columns:
 		#id (INT, Primary Key, Auto Increment)
 		#title (VARCHAR(255))
